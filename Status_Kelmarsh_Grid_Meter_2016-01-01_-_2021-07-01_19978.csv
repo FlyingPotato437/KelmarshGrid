@@ -1,0 +1,9 @@
+# This file was exported by Greenbyte at 2022-01-27 19:52:28. Please see https://www.greenbyte.com for more information about Greenbyte.
+#
+# Time zone: UTC
+# Time interval: 2016-01-01 00:00:00 - 2021-07-01 00:00:00 (2008 days)
+#
+# Kelmarsh Grid Meter Sum production: NaN kWh
+#
+Timestamp start,Timestamp end,Duration,Status,Code,Message,Comment,Service contract category,IEC category
+2019-06-30 22:30:00,,,Communication,9997,Data communication unavailable,,,
